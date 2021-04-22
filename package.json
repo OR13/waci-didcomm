@@ -1,0 +1,15 @@
+{
+  "name": "waci-didcomm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "dependencies": {
+    "canonicalize": "^1.0.5",
+    "jose": "^1.28.1"
+  }
+}

@@ -4,3 +4,8 @@
 - https://identity.foundation/didcomm-messaging/spec/
 
 WACI Presentation Exchange over HTTP with DIDComm messages
+
+```
+npm i
+npm run test
+```
